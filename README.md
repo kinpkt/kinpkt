@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! My name is Phakinthorn Pronmongkolsuk (Kin) and I'm an undergraduate CS student at Kasetsart University, Bangkok, Thailand.</h2>
 
 ### Currently working / learning on:
-- Desktop Application with JavaFX
-- Natural Language Processing
+- Mobile Application with Dart and Flutter
+- AI (Machine Learning)
+- Algorithm Design and Analysis
 - Making documents with $\LaTeX$
 
 ###
